@@ -12,7 +12,7 @@
 
 ### About Me 
 
-I'm a College Student, and I like to code. Here are some of my featured projects you may like:
+I'm a College Student, and I like to code. Here are some of my featured projects you may be interested in:
 
 1. [Chess Platform](https://github.com/eritaakash/chess-platform): A Multiplayer & Invite-only place to play chess with friends.
 2. [Voice Assistant](https://github.com/eritaakash/voice-assistant): A Basic Python program that responds to voice commands.
