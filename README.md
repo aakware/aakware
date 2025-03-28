@@ -16,6 +16,7 @@ I'm a College Student, and I like to code. Here are some of my featured projects
 
 1. [Chess Platform](https://github.com/eritaakash/chess-platform): A Multiplayer & Invite-only place to play chess with friends.
 2. [Functionally Dysfunctional](https://github.com/eritaakash/functionally-dysfunctional):  A virtual currency game made with Next.js
+3. [CharNetOCR](https://github.com/Magnimont/CharNetOCR) An amazing Python OCR library backed by an ensemble of 3 `YOLOv8n` models!
 
 > Please give a ⭐ to the repos you like
 > 
