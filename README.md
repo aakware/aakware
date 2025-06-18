@@ -6,7 +6,12 @@
     
   
   <h1>👨🏻‍💻</h1>
-  
+
+  <img
+    src="https://dcbadge.limes.pink/api/shield/1271107657616457799?compact=true"
+    alt="discord @aakash.er"
+  />
+
   ![](https://komarev.com/ghpvc/?username=eritaakash&color=8711c1&style=for-the-badge&abbrevated=true)
   
   <br>
