@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/eritaakash/eritaakash/refs/heads/main/aakash-img.png"
+    src="https://raw.githubusercontent.com/aakware/aakware/refs/heads/main/aakash-img.png"
     alt="Profile Banner Asset"
   >
     
@@ -12,7 +12,7 @@
     alt="discord @aakash.er"
   />
 
-  ![](https://komarev.com/ghpvc/?username=eritaakash&color=8711c1&style=for-the-badge&abbrevated=true)
+  ![](https://komarev.com/ghpvc/?username=aakware&color=8711c1&style=for-the-badge&abbrevated=true)
   
   <br>
   Web & AI/ML Developer <br>
@@ -24,8 +24,8 @@
 
 I'm a College Student, and I like to code. Here are some of my featured projects you may be interested in:
 
-1. [Chess Platform](https://github.com/eritaakash/chess-platform): A Multiplayer & Invite-only place to play chess with friends.
-2. [Functionally Dysfunctional](https://github.com/eritaakash/functionally-dysfunctional):  A virtual currency game made with Next.js
+1. [Chess Platform](https://github.com/aakware/chess-platform): A Multiplayer & Invite-only place to play chess with friends.
+2. [Functionally Dysfunctional](https://github.com/aakware/functionally-dysfunctional):  A virtual currency game made with Next.js
 3. [CharNetOCR](https://github.com/Magnimont/CharNetOCR) An amazing Python OCR library backed by an ensemble of 3 `YOLOv8n` models!
 
 > Please give a ⭐ to the repos you like
