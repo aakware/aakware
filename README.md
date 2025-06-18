@@ -4,10 +4,15 @@
     alt="Profile Banner Asset"
   >
     
+  
   <h2>Aakash</h2>
+  
+  ![](https://komarev.com/ghpvc/?username=eritaakash)
+  
   <br>
   Web & AI/ML Developer <br>
   <b><a href="https://aakash.engineer">My Personal Website »</a></b>
+
 </div>
 
 ### About Me 
