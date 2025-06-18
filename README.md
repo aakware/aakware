@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/eritaakash/eritaakash/refs/heads/main/assets/aakash-img.png"
+    src="https://raw.githubusercontent.com/eritaakash/eritaakash/refs/heads/main/aakash-img.png"
     alt="Profile Banner Asset"
   >
     
