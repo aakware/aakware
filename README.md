@@ -26,9 +26,12 @@ I'm a College Student, and I like to code. Here are some of my featured projects
 > Please give a ⭐ to the repos you like
 > 
 
+<br />
+
 ## Tech Stack
 
 ### 🌐 Web
+<br />
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -42,7 +45,12 @@ I'm a College Student, and I like to code. Here are some of my featured projects
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
+<br />
+<br />
+
 ### 🤖 AI/ML
+
+<br />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
