@@ -6,7 +6,7 @@
     
   <h2>Aakash</h2>
   <br>
-  A passionate programmer <br>
+  Web & AI/ML Developer <br>
   <b><a href="https://aakash.engineer">My Personal Website »</a></b>
 </div>
 
